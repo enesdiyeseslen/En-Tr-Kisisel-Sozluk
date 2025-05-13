@@ -1,1 +1,1 @@
-React-Native kullanılarak oluşturmuş Türkçe-İngizilce kişisel sözluk. Redux teknolojisi kullanılmıştır.
+React-Native kullanılarak oluşturulmuş Türkçe-İngilizce kişisel sözlük. Redux teknolojisi kullanılmıştır.
